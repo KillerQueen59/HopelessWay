@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Katalog Film </string>
+    <string name = "fav">List Kesukaan</string>
+    <string name = "more_info"> Info Lebih Lanjut </string>
+    <string name = "description"> Deskripsi </string>
+</resources>
